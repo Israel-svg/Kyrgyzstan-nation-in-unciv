@@ -1,23 +1,22 @@
 [
         {
-                "name": "Кыргызстан",
-                "leaderName": "Бишкек",
-                "adjective": ["alien"],
+                "name": "Kyrgyzstan",
+                "leaderName": "Pishpek",
                 "startBias": ["Hills"],
-                "preferredVictoryType": "Scientific",
+                "preferredVictoryType": "Cultural",
 
-                "startIntroPart1": "We come in peace!",
-                "startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+                "startIntroPart1": "Salam Walleykum brat!",
+                "startIntroPart2": "We are the hospitable people!",
 
-                "declaringWar": "Resistance is futile! Prepare to be assimilated!",
-                "attacked": "You want to play? Very funny!",
-                "defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-                "introduction": "As superior galactic entities, you are not worthy of our attention.",
+                "declaringWar": "Biz tushundukbys kandai sen boksen",
+                "attacked": "Sen konkretno axyelsynba poxody...",
+                "defeated": "Blya, nevozmozhnoye vozmozhnogo.",
+                "introduction": "Biz an kyin ealbiz",
 
                 "neutralHello": "How are you doing?",
                 "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-                "neutralNo": ["We absolutely refuse.","No!","I refuse."],
-                "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+                "neutralNo": ["Kereyjok","Jok!","Biz moonoo albaibyz."],
+                "neutralYes": ["Jakshi myisyl.","Adamchaken, ouwa.","Ai, Kanday balaken... krasavchik. DOBRO!."],
 
                 "hateHello": "What do you want now?",
                 "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
