@@ -18,17 +18,16 @@
                 "neutralNo": ["Kereyjok","Jok!","Biz moonoo albaibyz."],
                 "neutralYes": ["Jakshi myisyl.","Adamchaken, ouwa.","Ai, Kanday balaken... krasavchik. DOBRO!."],
 
-                "hateHello": "What do you want now?",
-                "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-                "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-                "hateYes": ["That is fine.","That is good enough.","Very well..."],
+                "hateHello": "Syebalsya v strahe",
+                "hateLetsHearIt": ["Suilo","Emne kerek?","Salam Aleykum zaebal."],
+                "hateNo": ["Poshel nahui!","Hueta!","Emne huinya aitkasyn??"],
+                "hateYes": ["Bolot.","Makul.","Jarait..."],
 
-                "afterPeace": "Very well, all that fighting was getting boring anyway.",
-                "tradeRequest": "We bestow you the honor of this trade offer.",
+                "afterPeace": "Obshiy salam.",
+                "tradeRequest": "Salam bratanchik. Mende tovar bar",
 
                 "outerColor": [200,200,20],
                 "innerColor": [200,20,20],
-                "unique": "MANIFEST_DESTINY",
                 "cities": ["Osh","Tokmak","Karakol","Jalal-Abad","Bishkek","Naryn","Uzgen","Kyzyl-Kiya","Soolyukta","Kok-Jangak",
                         "Tash-Koomyr","Talas","Balykchi","Mayluoo-Suoo","","Kara-Suoo","Cholpon-Ata","Kara-Balta","Kara-Kule","Kant","Shopokov","Batken",
                         "Razakov","Kochkor-Ata","Nookat","Aidarken","Kadamzhai","Kaindy","Kemin","Orlovka","Toktogul"]
