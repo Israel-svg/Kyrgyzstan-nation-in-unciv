@@ -2,7 +2,7 @@
         {
                 "name": "Kyrgyzstan",
                 "leaderName": "Pishpek",
-                "startBias": ["Hill"],
+                "startBias": ["Hill","Field"],
                 "preferredVictoryType": "Cultural",
 
                 "startIntroPart1": "Salam Walleykum brat!",
