@@ -2,7 +2,7 @@
         {
                 "name": "Kyrgyzstan",
                 "leaderName": "Pishpek",
-                "startBias": ["Avoid [Coast]", "Hill","Grassland","River"],
+                "startBias": ["Avoid [Coast]","Avoid [Desert]", "Hill","Grassland","River"],
                 "preferredVictoryType": "Cultural",
 
                 "startIntroPart1": "Salam Walleykum brat!",
